@@ -16,9 +16,9 @@ _Is a central place that allows structured storage of information where users ca
 
 ## Screenshots
 
-<p align="center"><img src="public/images/screenshots/screenshot-1.png" width="400"></p>
+<p align="center"><img src="public/images/screenshots/screenshot-1.png"></p>
 
-<p align="center"><img src="public/images/screenshots/screenshot-2.png" width="400"></p>
+<p align="center"><img src="public/images/screenshots/screenshot-2.png"></p>
 
 ## How to Install
 
@@ -39,4 +39,4 @@ _Is a central place that allows structured storage of information where users ca
 
 ## License
 
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+SKBase is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
